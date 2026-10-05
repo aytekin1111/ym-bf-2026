@@ -1,0 +1,871 @@
+             07/2026 YILI PTT A.Ş YAPI DAİRE BAŞKANLIĞI ÖZEL BİRİM FİYAT RAYİÇLERİ
+                                               VE TÜİK EŞLEŞTİRME KODLARI
+
+Poz No       Tanımı                         Birim  Birim Fiyat/07/2026
+10.100.1002  Karo kaplama ustası              SA
+10.100.1003  Fayans kaplama ustası            SA            348,20
+10.100.1004  Seramik kaplama ustası           SA            348,20
+10.100.1005  Mermer kaplama ustası            SA            348,20
+10.100.1008  Doğramacı ustası                 SA            348,20
+10.100.1009  Marangoz ustası                  SA            348,20
+10.100.1010  Yalıtımcı ustası                 SA            348,20
+10.100.1011  Lağımcı (Ateşleme ustası)        SA            348,20
+10.100.1012  Sıvacı ustası                    SA            348,20
+10.100.1013  Duvarcı ustası                   SA            348,20
+10.100.1015  Betoncu ustası                   SA            348,20
+10.100.1016  Kiremit tipi çatı kaplamacısı    SA            348,20
+10.100.1017  Dülger ustası                    SA            348,20
+10.100.1018  Sıcak demirci ustası             SA            348,20
+10.100.1022  Camcı ustası                     SA            348,20
+10.100.1023  Boyacı ustası                    SA            348,20
+10.100.1024  Badanacı ustası                  SA            348,20
+10.100.1026  Tenekeci ustası                  SA            348,20
+10.100.1032  Alüminyum ustası                 SA            348,20
+10.100.1033  Alçı levha ustası                SA            348,20
+10.100.1034  Alçı blok ustası                 SA            348,20
+10.100.1035  İskele Kurulum Elemanı           SA            348,20
+10.100.1036  Panel Çatı Kaplamacısı           SA            348,20
+10.100.1037  Beton Pompa Operatörü            SA            348,20
+10.100.1038  Alçı levha usta yardımcısı       SA            421,21
+10.100.1040  Alçı blok usta yardımcısı        SA            258,34
+10.100.1041  Marangoz usta yardımcısı         SA            258,34
+10.100.1042  Yalıtımcı usta yardımcısı        SA            258,34
+10.100.1043  Alçı işleri usta yardımcısı      SA            258,34
+10.100.1044  Sıvacı usta yardımcısı           SA            258,34
+10.100.1046  Sıcak demirci usta yardımcısı    SA            258,34
+10.100.1047  Soğuk demirci usta yardımcısı    SA            258,34
+10.100.1049  Borucu usta yardımcısı           SA            258,34
+10.100.1050  Borucu ustası                    SA            258,34
+10.100.1051  Şoför                            SA            348,20
+10.100.1057  Operatör yardımcısı              SA            348,20
+10.100.1059  Yağcı                            SA            336,97
+10.100.1060  Formen                           SA            258,34
+10.100.1061  Topoğraf                         SA            499,83
+10.100.1062  Düz işçi (inşaat işçisi)         SA            381,89
+10.100.1063  Erbab işçi                       SA            230,26
+10.100.1064  Çırak                            SA            280,80
+10.100.1068  Birinci sınıf usta               SA            230,26
+10.100.1069  Birinci sınıf usta yardımcısı    SA            348,20
+10.100.1070  İkinci sınıf usta                SA            258,34
+10.100.1071  İkinci sınıf usta yardımcısı     SA            336,97
+                                                            258,34
+10.120.1011  Traktör ripper (TD25 veya emsali 185HP+Ripper)                                       AD    8.414.136,90
+10.120.1023                                                                                             1.041.594,25
+10.120.1033  Kompresör (210 cfm' lik komresör+hortum ve tabancalar)                               AD
+10.120.1040                                                                                               169.341,12
+10.120.1058  Betoniyer (motoru ile takriben 250 litrelik)                                         AD      121.713,93
+10.120.1063                                                                                            23.284.404,00
+10.120.1192  Beton vibratörü (4 HP)                                                               AD      101.604,67
+10.120.1194                                                                                             4.498.123,50
+10.120.1196  Mobil Beton Pompası (420 HP)                                                         AD    6.297.372,90
+10.120.1203                                                                                             7.144.078,50
+10.120.1204  Her cins (titreşimli, darbeli) motorlu kompaktör (Takriben 400 kg statik ağırlıkta   AD      178.866,56
+10.120.1225  9HP)
+10.120.1238                                                                                                 97.371,14
+10.130.1009  Alüminyum doğrama imalat atelyesi                                                    AD        31.222,27
+10.130.1703                                                                                             1.164.220,20
+10.130.1706  Demir doğrama imalat atelyesi                                                        AD
+10.130.1707                                                                                                     455,58
+10.130.1708  Ahşap doğrama imalat atelyesi                                                        AD             25,43
+10.130.1709                                                                                                      53,12
+10.130.4501  Derz kesme makinesi (maksimum kesme derinliği 160mm-12 HP) (bıçağı, su               AD             29,26
+10.130.4502  deposu, vb. dahil komple)                                                                           29,26
+10.130.4504                                                                                                      29,26
+10.130.9991  Perdah (helikopter) makinesi (9HP) (Tepsisi, 4lü bıçağı vb. dahil komple)            AD
+10.160.1001                                                                                                 11.388,88
+10.160.1004  Karıştırıcı (Blender)                                                                AD        10.049,01
+10.160.1005                                                                                                 11.388,88
+10.160.1025  Forklift (4 ton 40 HP)                                                               AD
+10.160.1026                                                                                                      62,19
+10.160.1030  63 mm'ye kadar kırmataş (en az iki tane sınıfı karıştırılarak hazırlanmış)           M3            135,69
+10.170.1801
+10.170.2002  Beton çelik çubugu düz ø 14-50 mm.(s220)                                             KG             13,57
+10.170.2003                                                                                                      22,33
+10.170.2107  80-100 mm çelik (din c 35)                                                           KG             98,51
+10.170.2201                                                                                                      92,75
+10.170.2202  Lamalar (ts en 10058)                                                                KG
+10.170.2451                                                                                                        4,66
+10.170.2501  Sıcak haddelenmiş profil demirler (ı-u-t-omega)                                      KG        29.558,59
+10.200.1301
+10.200.2001  Sıcak haddelenmiş köşebentler (s235jr) (ts en 10056-1,2)                             KG             85,39
+10.200.2123                                                                                                     108,08
+10.200.2204  Çam kerestesi 1.sınıf                                                                M3            209,74
+                                                                                                                182,23
+10.200.2411  Çam kerestesi 2.sınıf                                                                M3            304,87
+                                                                                                                263,61
+10.200.3029  Beyaz çam (köknar) 1.sınıf                                                           M3            292,26
+
+10.200.3137  Su                                                                                   M3             49,52
+                                                                                                                224,87
+10.200.3136  Jel dinamit                                                                          KG            241,79
+                                                                                                                297,40
+             Fitil (katranlı, emniyetli, ınfilaklı)                                               MT
+                                                                                                             1.893,65
+             Kapsül (adi)                                                                         AD
+                                                                                                                   7,88
+             Benzin                                                                               KG
+                                                                                                                   2,61
+             Mazot (motorin)                                                                      KG
+                                                                                                                   2,70
+             Elektrik enerjisi                                                                    kWh
+
+             Kontraplak (TS EN 636+A1)                                                            M3
+
+             Odun lifi levha düz 4 mm                                                             M2
+
+             Odun lifi levha düz 5 mm                                                             M2
+
+             Yonga levha 19 mm.                                                                   M2
+
+             8 mm. sentetik reçine esaslı yonga levha                                             M2
+
+             18 mm. sentetik reçine esaslı yonga levha                                            M2
+
+             Standart laminat levha 0.65 mm.                                                      M2
+
+             Sonradan şekil verilebilen laminat levhalar 0.65 mm                                  M2
+
+             Sıcak daldırma galvanizli düz saç                                                    KG
+
+             Alüminyum profiller                                                                  KG
+
+             0.70 mm alüminyum düz levha (en aw 3003-almn1cu)                                     KG
+
+             3.00 mm boyalı alüminyum düz levha (en aw 1100-al99,0 cu)                            KG
+
+             Alüminyum kompozit panel (0,50mm+3mm+0,50mm) 3mm kal.mineral dolgulu.                M2
+             alüm.levh.gör.dış yüzü min. 28 mikron kal. pvdf boyalı, alüminyum levhalar
+
+             Agraf 20 cm 1 mm kalınlıkta, sıcak daldırma galvanizli, akma dayanımı en az          AD
+             >=140N/mm2 olan sacdan mamul, >=Z100
+
+             Çelik dubel (6x45 vida, kovan,L-demir ve somun dahil), 15mm Genişliğinde Ara         AD
+             Taşıyıcı T Profiller
+
+             Çiftli yay (0,60mm kalınlığında yay çeliğinden mamul, fosfat ve benzeri kaplanmış),  AD
+
+             15mm Genişliğinde Ara Taşıyıcı T Profiller
+10.200.3129     Askı çubuğu 40cm (4 mm galvanizli çubuk, uzunluk:40cm), 15mm Genişliğinde Ara         AD        1,35
+                Taşıyıcı T Profiller
+10.200.3601                                                                                                   39,49
+10.200.3611     Kare ve dikdörtgen kesitli çelik boruların fiyat ortalaması                            KG     72,02
+10.240.1701     40*40*2.0 mm kare ve dikdörtgen kesitli çelik boru                                    MT     672,44
+10.240.2405     Renkli mermer                                                                          M2  2.761,55
+10.240.2614     Bulancak füme granit honlu veya cilalı (giresun)                                       M2    435,98
+10.240.2648     Andezit bordürler (ts 10835) 10x25x70 cm.                                             AD     597,49
+10.240.2667     Andezit plaklar (ts 10835) 3cm kalınlığında 30cm x serbest boy                         M2    653,44
+10.240.2668     Andezit plaklar (ts 10835) 4cm kalınlığında 20cm x serbest boy                         M2    714,67
+10.240.2668a    Andezit plaklar (ts 10835) 4cm kalınlığında 30cm x serbest boy                         M2    357,34
+10.240.2707     Andezit plaklar (ts 10835) 4cm kalınlığında 30cm x serbest boy                         M2    729,45
+10.240.2708     Andezit plaklar(ts 10835) 6cm kalınlığında 20cm x serbest boy                          M2    805,45
+10.240.2709     Andezit plaklar(ts 10835) 6cm kalınlığında 30cm x serbest boy                          M2  1.018,69
+10.240.2707-08  Andezit plaklar(ts 10835) 6cm kalınlığında 40cm x serbest boy                          M2    767,45
+10.240.2708-09  ANDEZİT PLAK(25XSERB)                                                                  M2    912,07
+10.240.3201     ANDEZİT PLAK(35XSERB)                                                                  M2    443,37
+10.240.3202     Mermer pirinci (beyaz)                                                                TON    526,76
+10.240.3560     Mermer pirinci (renkli)                                                               TON    422,32
+                Her türlü desen ve yüzey özelliğinde, renkli, sırlı porselen karo (30 x 60 cm anma     M2
+10.240.3608     ebatlarında)                                                                                 522,82
+                0,60*0,60 Beton görünümlü granit seramik döş kaplaması                                 M2
+10.240.3658                                                                                                  662,80
+                Her türlü renk, desen ve yüzey özelliğinde, parlak, sırsız porselen karo (60 x 60 cm  M2
+10.240.3664     anma ebatlarında) (rektifiyeli)                                                            1.172,46
+
+10.240.5507     Her türlü renk, desen ve yüzey özelliğinde, parlak, sırsız porselen karo (60x90-      M2        2,48
+10.240.5508                                                                                                     4,54
+10.240.5583     60x120 cm anma ebatlarında) (rektifiyeli)                                                     50,23
+10.240.5603                                                                                                   71,43
+10.240.6058     Perlitli Sıva Alçısı                                                                  KG     140,68
+
+10.240.6101     İnce Uygulanabilir Alçı (Saten Alçı)                                                  KG     697,27
+
+10.240.6104     12,5 mm kalınlığında standart (Tip A) alçı levha                                      M2      15,29
+10.240.6105                                                                                                  116,21
+10.240.8053     12,5 mm kalınlığında su emme oranı azaltılmış (Tip H2) alçı levha                     M2     301,36
+10.240.8203                                                                                                  507,12
+10.240.9102     Akrilik esaslı pvc yapıştırıcı                                                        KG     260,69
+10.240.9111
+10.250.1047     2 mm kalınlıkta (Sınıf 32-41 - EN 685) (Kalıcı Batma =<0,10 mm - EN 433)              M2        0,65
+10.300.1175     Linolyum Zemin Kaplamaları                                                                   183,21
+10.300.1602                                                                                                  161,65
+10.300.2061     Linolyum kaynak kordonu                                                               MT
+10.300.2074                                                                                                     9,26
+10.300.2122     Akrilik esaslı linolyum yapıştırıcı                                                   KG     230,80
+10.300.2151
+10.300.2156     Çimentolu yonga levha 12 mm.                                                          M2      16,98
+10.300.2202                                                                                                   73,25
+                8 mm kalınlıkta magnezyum oksit esaslı levhalar                                       M2     383,15
+10.300.2203                                                                                                  743,77
+                Oluklu bitümlü levhalar (her renkte)(ts en 534) (kategori r >= 1400 n/m²)(yangın      M2      12,96
+10.300.2204     sınıfı broof)
+                                                                                                              19,16
+                Galvanizli çivi, plastik rondelalı                                                    AD
+                                                                                                              34,93
+                Sentetik esaslı mat boya                                                              LT
+
+                Demir-çelik yüzey koruyucu astar (antipas)                                            LT
+
+                Zımpara kağıdı                                                                        AD
+
+                Korozyon hızını yavaşlatan beton katkısı (sıvı)                                       KG
+
+                Kendiliğinden yayılan(self levelling) zemin tesviye harcı (ts en 13813- ts en 1504-2) KG
+
+                Tek bilesenli akrilik kopolimer esaslı astar (sıvı)                                   KG
+
+                Epoksi esaslı eski betonun yeni betona aderansını sağlayan yapıştırıcı (iki bileşenli) KG
+
+                Ankraj işlemlerinde kullanılan maddeler (epoksi reçine bazlı 2 bileşenli tüp) (250 ml AD
+                tüp)
+
+                Çimento esaslı, standart performanslı, kayma özelliği azaltılmış, açık bekletme       KG
+                süresi uzatılmış karo yapıştırıcı (ts en 12004 - c1te)
+
+                Çimento esaslı, yüksek performanslı, kayma özelliği azaltılmış, açık bekletme süresi  KG
+
+                uzatılmış karo yapıştırıcı (ts en 12004 - c2te)
+
+                Çimento esaslı, yüksek performanslı, kayma özelliği azaltılmış, açık bekletme süresi  KG
+                uzatılmış, esnek karo yapıştırıcı ((ts en 12004 - c2te) (ts en 12002 - s1))
+10.300.2231    Çimento esaslı, standart performanslı derz dolgusu (ts en 13888 - cg1)                 KG       19,16
+                                                                                                               22,54
+10.300.2232    Çimento esaslı, yüksek performanslı, yüksek aşınma dayanımlı, su emilimi               KG    2.356,64
+
+10.310.1251    azaltılmış derz dolgusu (ts en 13888 - cg2aw)
+
+10.310.1511    Ses yutma katsayısı (ortalama)>=0,80 olan bölme duvar, yükseltilmiş döşeme, asma
+               tavan vb.yük altında kullanılmayan detaylarda ısı ve ses yalıtımı için kullanılan lifli, M3
+10.310.1111    taşyünü levha (TS EN 13162+A1)
+
+10.330.2351    Yüzeye dik çekme mukavemeti en az 100 kPa olan (sadece profilli uygulamalar için)
+10.330.2501
+10.330.2503    olan duvarlarda içten ısı yalıtımı için sıvalı ve profilli uygulamalar için ekstürüde  M3    5.702,67
+10.330.2505
+10.330.5101    (haddelenmiş) polistren köpük (XPS) levha (TS EN 13164+A1)
+10.330.5495
+10.380.1403    Yüzeye dik çekme mukavemeti en az 1,0kPa (TR1) olan, kaplamasız, giydirme              M3    3.122,55
+10.380.1443    cephe uygulamaları için lifli taşyünü levha (TS EN 13162+A1) (855,00*0,05=42,75)
+10.380.2003                                                                                                      4,66
+10.380.2003/A  9-15 cm (15 cm dahil) çelik çivili ısı yalıtım dübelleri                                 AD             Tüik Kodu
+10.380.9981    Sıva filesi (145 ile 160 g/m2 alkaliye dayanımlı) (Ulusal teknil onay veya avrupa               18,35      Yi-Üfe
+10.380.9983    teknik onay kapsamında belgeli)                                                          M2
+10.400.1009    Isı yalıtım levhaları yapıştırıcısı (TS 13566)                                                    5,63
+10.400.1022    Isı yalıtım levha sıvası (TS 13687) (çimento esaslı polimer katkılı)                     KG       6,76
+10.400.2141    2.0 mm. plastomer cam tülü taşıyıcı örtüler                                              KG    159,67
+10.420.1005    Bıtümlü karton (ts 13047) (tip 3)                                                        M2       9,78
+10.420.1006    Renksiz saydam 5+5 mm lamine cam                                                         M2  1.606,93
+10.420.1007    5+5 mm kalınlıkta renksiz saydam akustik 0,76 pvb'li lamine cam                          m²  3.190,99
+10.420.1010    10 mm Kalınlıkta Temperli Cam (TS EN 14321-1,2)                                          M2  1.280,97
+10.420.1011    10 mm temperli (kumlamalı) cam                                                           M2  1.570,36
+10.420.1012    Camlama takozu, cam vb. için montaj malzemeleri                                          M2       4,52
+10.420.1052    Slikon (310 ml) (asitsiz - nötral silikon), cam vb. için montaj malzemeleri              AD    728,85
+10.420.1302    Kendinden kompozit takviyeli beyaz renkli sert PVC doğrama profilleri                    AD    110,10
+10.420.1305    Plastik ve alüminyum doğrama montaj dübeli                                               KG       6,12
+10.420.1404    İspanyolet takımı (Kol dahil)100 cm kadar 2 kavramalı                                    AD    384,51
+10.420.1513    Metal deplüvaye                                                                          AD     44,77
+10.480.1803    Çiviler (ts 155)                                                                         M2     27,98
+10.480.1804    Galvanizli çivi (ts 155)                                                                 KG     67,16
+10.480.1821    Ağaç vidası (küçük 144 ad)                                                               KG     78,35
+15.150.1006    Agaç vidası (büyük 144 ad)                                                             KUTU     89,54
+15.540.1111    Vida ve plastik dübel                                                                  KUTU       2,24
+15.550.1001    Bulon                                                                                    AD     33,58
+19.100.1001    Sentetik tutkal (ts en 12765)                                                            KG     36,44
+19.100.1031    Silikon esaslı 800 serisi macun                                                          KG    163,99
+19.100.1033    Sert pvc çatı bantı                                                                      KG     48,93
+19.100.1085    Pvc pestili (1mm.lik)                                                                   MT      36,70
+19.100.1087    Galvanizli tel                                                                           M2     67,16
+19.100.1089    Galvanizli kafes tel (muhtelif) (ts 2398)                                                KG     78,35
+19.100.1091    İşlenmiş küçük demirler(muhtelif)                                                        KG     47,51
+               Beton santralinde üretilen veya satın alınan ve beton pompasıyla basılan, C 30/37        KG
+               basınç dayanım sınıfında, gri renkte, normal hazır beton dökülmesi (beton nakli              3.301,35
+               dahil)                                                                                   M3
+               Demir yüzeylere korozyona karşı iki kat antipas boya yapılması                                 241,42
+               Kare ve dikdörtgen profillerle pencere ve kapı yapılması ve yerine konulması             M2    164,84
+               Ekskavatörün 1 saatlik ücreti (100 hp) 1 saatlik ücreti                                  KG  2.709,18
+               Betoniyer'in bir saatlik ücreti (250 lt)                                                 SA  1.167,14
+               Beton vibratörü'nün 1 saatlik ücreti                                                     SA    524,33
+               Karıştırıcı (blender)'in 1 saatlik ücreti                                                SA
+               Alüminyum doğrama imalat atelyesinin 1 saatli ücreti                                     SA       8,23
+               Demir doğrama imalat atelyesinin 1 saatli ücreti                                         SA  5.208,00
+               Ahşap doğrama imalat atelyesinin 1 saatlik ücreti                                        SA  5.870,28
+                                                                                                        SA  6.797,91
+19.100.1093    Derz kesme makinesi (maksimum kesme derinliği 160 mm-12 hp) (bıçağı, su                                           594,40
+19.100.1094                                                                                                                SA
+19.100.1112                                                                                                                      565,64
+19.100.2003    deposu, vb.. dahil komle)                                                                                       1.077,44
+19.100.2009
+19.100.2062    Perdah (helikopter) makinesi (9 hp) (tepsisi, 4'lü bıçağı vb. dahil komple)           SA                          153,06
+19.100.2063                                                                                                                      266,79
+19.100.2501    Forklift'in 1 saatlik ücreti                                                          SA                        2.522,97
+19.100.2509                                                                                                                      345,39
+19.100.2510    Makina ile kum çakıl hazırlanması                                                     M3                        1.985,06
+19.100.2511                                                                                                                    2.339,23
+19.100.2513    Lama demirlerinden çarık bilezik başlık kenet demirleri                               KG                        2.403,01
+19.100.2517                                                                                                                    2.436,77
+19.100.2518    İş yerinde 1 m3 söndürülmemiş parça kalker kireci hazırl.                             M3                        2.581,79
+19.100.2519                                                                                                                    2.251,74
+19.100.2520    Elle 1 m3 su hazırlanması (çıkrık,tulumba,su kabı)                                    M3                        2.003,55
+19.100.2521                                                                                                                    2.173,19
+               200 kg çimento dozlu harç yapılması                                                   M3                        2.173,19
+19.100.2522                                                                                                                    2.270,73
+               400 kg çimento dozlu harç yapılması                                                   M3
+19.100.2432
+19.100.1023    Kum ve kırmataş ile 400 kg çimento dozlu harç yapılması                               M3
+19.100.1011
+10.130.1005    400 kg çimento dozlu ince harç yapılması                                              M3
+10.130.1203
+10.130.6001    450 kg çimento dozlu ince harç yapılması                                              M3
+10.130.1007
+10.130.6021    600 dozlu çimento şerbeti                                                             M3
+10.120.1001
+10.170.2552/E  500 dozlu çimento şerbeti                                                             M3
+10.420.1305
+10.300.2122    Kireç harcı yapılması (sönmüş kireç torbalı)                                          M3
+10.300.2074
+10.380.9981    Kireç çimento karışımı harç yapılması                                                 M3
+
+10.300.2203    0.100 m3/250 kg kireç-çimento karışımı ince harç yapılması(sönmüş kireç torbalı)      M3
+10.240.2405
+               0.170 m3/200 kg kireç ve çimento karışımı kaba harç yapılması(sönmüş kireç                                      2.328,77
+ÖZEL.001
+ÖZEL.002       torbalı)                                                                              M3
+ÖZEL.003
+ÖZEL.004       Saten alçı harcı hazırlanması                                                         M3                             4.835,10
+ÖZEL.005                                                                                                                            2.909,69
+ÖZEL.006       komrasör bir saatlik ücreti                                                           Sa                             4.271,67
+
+ÖZEL.015       Traktör ripperin bir saatlik ücreti                                                   Sa                               364,47
+                                                                                                                                    3.220,74
+ÖZEL.016       Kum (tuvenan agregadan elenmiş ve yıkanmış)                                           M3                             3.506,84
+
+ÖZEL.023       Portland çimentosu (Torbalı) TS EN 197-1 CEM I 42,5 R)                                Ton                              462,01
+ÖZEL.024                                                                                                                                 3,54
+               Kalsiyum kireci CL 70S sönmüş toz kireç (torbalı) (TS EN 459-1, TS EN 459-2)          Ton
+ÖZEL.026                                                                                                                       5.000.854,95
+               İnce sıva veya derz kumu (elenmiş ve yıkanmış)                                        m3                             3.078,75
+                                                                                                                                      163,99
+               Söndürülmemiş parça kalker kireci (TS EN 459-1,TS 32 EN 459-2)                        kg                                 73,25
+                                                                                                                                        16,98
+               Ekskavatör ve dragline tipi makinalar 100 HP (1Yd3)                                   ad                                  4,52
+
+               Kompakt Lamine Levha 12 mm                                                            M2
+
+               Silikon esaslı 800 serisi macun                                                       KG
+
+               Tek Bileşenli Akrilik Kopolimer Astar                                                 Kg
+
+               Kendiğinden yayılan (Self Leveling) zemin harcı                                       Kg
+
+               Camlama takozu, cam vb. için montaj malzemeleri                                       Ad
+
+               Çimento esaslı, yüksek performanslı, kayma özelliği azaltılmış, açık bekletme süresi                            19,16
+
+               uzatılmış karo yapıştırıcı (TS EN 12004-1 - C2TE                                      Kg
+
+               BULANCAK FÜME GRANİT LEVHA (30XSERBEST BOY)(ZAİYATLI)                                 m²                        2.761,55
+
+                                                                                                                                               Tüik Kodu
+
+               3 cm MDF                                                                                                        833,32          16,2
+               2,5 cm MDF
+               8 mm MDF                                                                                                        658,55          16,2
+               1,4 cm MDF
+               1,6 cm MDF                                                                                                      201,36          16,2
+               1,8 cm MDF
+               4+4 LAMİNAS.+12 mm HB+6 mm ISICAM ÜNİT.YAP.VE YER.TAK.                                                          343,20          16,2
+
+               3+3 LAMİNAS.+12 mm HB+4 mm ISICAM ÜNİT.YAP.VE YER.TAK.                                                          390,04          16,2
+
+               4+4 mm SÜT LAM.CAM.(Hcam=129 cm) PAS.ÇEL.MER.KOR.YAP.                                                           400,18          16,2
+               ALÜMİNYUM PASPAS
+               ALÜMİNYUM (2 mm KAL. LEVHA İLE) CEPHE KAPLAMASI YAP.                                                            3.398,05        23,1
+
+                                                                                                                               2.780,22        23,1
+
+                                                                                                                               10.811,93       23,1
+
+                                                                                                                               13.132,84       24,4
+
+                                                                                                                               7.660,83
+                                                                                                                                                     24,4
+ÖZEL.027  KAYDIRMAZ BANTLI SERT AL. MERDİVEN BURUNLUĞU YAP.               1.094,41    24,4
+                                                                         10.944,05
+ÖZEL.028  PASLANMAZ ÇELİK MERDİVEN KORKULUĞU YAPILMASI                   10.944,05    24,4
+ÖZEL.032  PASLANMAZ ÇELİK KÜPEŞTE YAPILMASI                                           24,4
+          150/100 EBADINDA KÖŞELİ PVC YAĞMUR OLUĞU YAPILMASI                190,65
+ÖZEL.034  150' LİK PVC OLUK KELEPÇESİ                                         94,12   22,2
+ÖZEL.035  150' LİK KÖŞELİ(100mmX70mm) PVC YAĞMUR İNİŞ BORUSU YAPIL.                   22,2
+ÖZEL.036  PVC YAĞMUR İNİŞ BOR. KELEPÇESİ150 lik                             111,45    22,2
+ÖZEL.037  HİDROLİK POMPA YAPILMASI                                            29,23   22,2
+ÖZEL.042                                                                             Yi-Üfe
+          5+5 mm SÜT LAMİNE CAM ALM.DOĞRAMAYA TAKILMASI                   5.032,94
+ÖZEL.045                                                                  2.780,22    23,1
+          4+4 mm SÜT LAMİNE CAM ALM.DOĞRAMAYA TAKILMASI
+ÖZEL.046  DIŞARIDAN MÜDAHALELİ PANİK BAR                                  2.316,84    23,1
+ÖZEL.047  VEZNE VE KASA OD. KAPI KANADI VE KASASI (10'luk Duv. 80/210)    8.627,88   Yi-Üfe
+ÖZEL.049  VEZNE VE KASA OD. KAPI KANADI VE KASASI (10'luk Duv. 90/210)   32.953,78   Yi-Üfe
+ÖZEL.050                                                                 32.953,78   Yi-Üfe
+          VEZNE VE KASA OD. KAPI KANADI VE KASASI (10'luk Duv. 80/220)   32.953,78
+ÖZEL.051                                                                             Yi-Üfe
+          VEZNE VE KASA OD. KAPI KANADI VE KASASI (10'luk Duv. 90/220)   32.953,78
+ÖZEL.052                                                                             Yi-Üfe
+          VEZNE VE KASA OD. KAPI KANADI VE KASASI (20'lik Duv. 80/210)   32.953,78
+ÖZEL.053                                                                             Yi-Üfe
+          VEZNE VE KASA OD. KAPI KANADI VE KASASI (20'lik Duv. 90/210)   32.953,78
+ÖZEL.054                                                                             Yi-Üfe
+          VEZNE VE KASA OD. KAPI KANADI VE KASASI (20'lik Duv. 80/220)   32.953,78
+ÖZEL.055                                                                             Yi-Üfe
+ÖZEL.056  VEZNE VE KASA OD. KAPI KANADI VE KASASI (20'lik Duv. 90/220)   32.953,78
+                                                                                     Yi-Üfe
+ÖZEL.062  ALÜMÜNYUM PENCERE DOĞ. İSPANYOLET MEKANİZMASI (Kol hariç)       1.042,75
+                                                                                      24,3
+ÖZEL.063  ALÜMİNYUM DOĞRAMALARI KAPI VE PENCERE MENTEŞESİ                   260,69
+ÖZEL.064  ALÜMÜNYUM DOĞRAMALARI DAR TİP KAPI KİLİDİ                         847,24    24,3
+ÖZEL.065  ALÜMİNYUM DOĞRAMALARI GENİŞ TİP KAPI KİLİDİ                     1.107,93    24,3
+ÖZEL.066  ALÜMİNYUM DOĞRAMALARI KAPI KOLU VE AYNALARI                       651,73    24,3
+          ALÜMİNYUM DOĞRAMALARI PENCERE KOLU VE AYNASI                      521,38    24,3
+ÖZEL.067  ALÜMİNYUM DOĞRAMALARI KAPI ALTI FIRÇASI                           260,69
+ÖZEL.068  50X70 cm. EBADINDA AFİŞ PANOSU İMALATI                          4.093,93    24,3
+ÖZEL.069  64X90 cm. EBADINDA AFİŞ PANOSU İMALATI                          4.672,30    24,3
+ÖZEL.070  120 DAK. DAYANIMLI PANİK BARLI YANGIN KAPISI (L=70cm (dahil)-  25.044,85   Yi-Üfe
+          100cm(dahil) H=200cm (dahil)-220cm (dahil))                                Yi-Üfe
+ÖZEL.071  5 m. YÜKS. PAS.ÇELİK (DAİRESEL KES KONİK) BAYRAK DİREĞİ        11.221,61
+ÖZEL.073  (kagir temel imalatları ile birlikte)                                      Yi-Üfe
+ÖZEL.074  6 m. YÜKS. PAS.ÇELİK (DAİRESEL KES KONİK) BAYRAK DİREĞİ        11.881,72
+ÖZEL.078  (kagir temel imalatları ile birlikte)                          11.169,95    24,2
+ÖZEL.079  Ahşap Evrak Dolabı Yapılması
+ÖZEL.080  2,2 cm MDF                                                        569,89    24,2
+ÖZEL.081  Tas Menteşe                                                         38,70   16,2
+ÖZEL.082  Çekmece rayı                                                                16,2
+ÖZEL.083  Plastik ayak                                                      264,55     25
+ÖZEL.084  Çekmece kulpu                                                       33,48    25
+ÖZEL.097  PVC Kenar bandı                                                     41,59    25
+          ÇEKME KOLU TEMİNİ VE YERİNE TAKILMASI                                3,64    25
+                                                                                       25
+                                                                          3.164,59     25
+ÖZEL.098    ÜST PİVOT MENTEŞE TEMİNİ VE YERİNE TAKILMASI                                                                        3.769,38    25
+ÖZEL.099    ALT PİVOT MENTEŞE TEMİNİ VE YERİNE TAKILMASI                                                                        2.805,60    25
+ÖZEL.100    KÖŞE KİLİDİ TEMİNİ VE YERİNE TAKILMASI                                                                              1.365,32    25
+ÖZEL.101    CAM KAPI MENTEŞESİ TEMİNİ VE YERİNE KONMASI                                                                         2.456,61    25
+ÖZEL.102    SABİT CAM TUTUCU TEMİNİ VE YERİNE KONMASI                                                                           1.193,56    25
+ÖZEL.135    ALÜMİNYUM SÜPÜRGELİK İMALATI                                                                                                   24,4
+ÖZEL.136    4mm Temperli+12mm HB+ 4+4mm Lamine Isı Cam                                                                            766,08   23,1
+ÖZEL.137    METAL SÜPÜRGELİK                                                                                                    3.861,41   24,1
+
+ÖZEL.140    10*30 CM EBADINDA SERAMİK DUVAR KAPLAMASI YAPILMASI                                                                   247,65   23,3
+ÖZEL.262                                                                                                                          901,22   16,2
+            12 mm, MDF LEVHA                                                                                                      295,08
+ÖZEL.273                                                                                                                                   28,2
+ÖZEL.274    Ankastre hava perdesi 120 cm 15 kw ısıtıcılı                                      Ad.                             97.108,72    28,2
+ÖZEL.275                                                                                                                     100.548,74    28,2
+ÖZEL.276    Ankastre hava perdesi 140 cm 15 kw ısıtıcılı                                      Ad.                            104.345,46    28,2
+ÖZEL.277                                                                                                                     119.133,06    28,2
+ÖZEL.281    Ankastre hava perdesi 160 cm 18 kw ısıtıcılı                                      Ad.                            124.111,44    28,2
+ÖZEL.282                                                                                                                                   28,2
+ÖZEL.283    Ankastre hava perdesi 180 cm 21 kw ısıtıcılı                                      Ad.                             88.126,37    28,2
+ÖZEL.284                                                                                                                     121.399,45    28,2
+ÖZEL.288    Ankastre hava perdesi 200 cm 21 kw ısıtıcılı                                      Ad.                            177.022,56    28,2
+ÖZEL.289                                                                                                                     198.196,66    28,2
+ÖZEL.290    Kaset tipi İnverter split klima (Qsoğ:18.000 Btu/h)                               Ad.                            113.206,79    28,2
+ÖZEL.109                                                                                                                     158.933,73
+ÖZEL.110    Kaset tipi İnverter split klima (Qsoğ:24.000 Btu/h)                               Ad.                            189.430,33   22,20
+ÖZEL.111
+ÖZEL.112    Kaset tipi İnverter split klima (Qsoğ:36.000 Btu/h)                               Ad.                               7.903,88  22,20
+ÖZEL.113
+ÖZEL.114    Kaset tipi İnverter split klima (Qsoğ:48.000 Btu/h)                               Ad.                             10.141,73   22,20
+ÖZEL.115
+ÖZEL.116    Yer tavan tipi inverter klima (Qsoğ:24.000 Btu/h)                                 Ad.                               1.142,74  Yi-Üfe
+ÖZEL.117
+ÖZEL. 117A  Yer tavan tipi inverter klima (Qsoğ:36.000 Btu/h)                                 Ad.                                 208,62  Yi-Üfe
+ÖZEL.118
+ÖZEL.119    Yer tavan tipi inverter klima (Qsoğ:48.000 Btu/h)                                 Ad.                                  94,21  22,20
+ÖZEL.120
+ÖZEL.121    HİSSEDİLEBİLİR YÜZEY (UYARI /NOKTA) DAHİLİ ORTAM KENDİNDEN                                                            540,41  22,20
+
+ÖZEL.122    BANTLI MS 58 PİRİNÇ MALZEMEDEN İMAL EDİLMİŞ                                       m                                 1.223,69  22,20
+
+ÖZEL.123    HİSSEDİLEBİLİR YÜZEY (KLAVUZ / İZ) DAHİLİ ORTAM KENDİNDEN                                                           2.349,72  22,20
+ÖZEL.124
+            BANTLI MS 58 PİRİNÇ MALZEMEDEN İMAL EDİLMİŞ                                       m                                 3.675,78  22,20
+
+            HİSSEDİLEBİLİR YÜZEY (UYARI /NOKTA) HARİCİ ORTAM KENDİNDEN                                                          9.379,92  Yi-Üfe
+
+            VİDALI PA6 POLYEMİD MALZEMEDEN İMAL EDİLMİŞ                                       m                               26.527,68   Yi-Üfe
+
+            CAM BANDI UYGULAMALARI                                                                                            28.622,64   Yi-Üfe
+                                                                                                                         m
+                                                                                                                              10.287,80   Yi-Üfe
+            MERDİVEN KAYDIRMAZ BANT UYGULAMASI
+                                                                                                                         m    24.941,83   22,20
+
+            BRAİLLE BASKILI KÜPEŞTE ÜZERİ YÖNLENDİRME LEVHALARI                                                                   291,63  22,20
+                                                                                                                        Ad.
+                                                                                                                                  267,83  22,20
+            BRAİLLE ALFABELİ KAPI İSİMLİKLERİ
+                                                                                                                        Ad.       291,63
+
+            BRAİLLE BASKILI ŞUBE KAPI İSİMLİKLERİ
+                                                                                                                        Ad.
+
+            BRAİLLE BASKILI ŞUBE BİLGİLENDİRME PANOSU
+                                                                                                                        Ad.
+
+            BRAİLLE BASKILI ŞUBE BİLGİLENDİRME PANOSU (AYAKLI)
+                                                                                                                         Ad
+
+            AKILI İŞİTME SİSTEMİ BANKO TİPİ
+                                                                                                                        Ad.
+
+            ACİL DURUM ÇAĞRI ALICI PAGER (SAAT) VE KABLOSUZ ACİL DURUM
+
+            ÇAĞRI BUTONU                                                                      Tk.
+
+            ERİŞİLECİLİR WC ACİL DURUM İPLİ ÇAĞRI BUTONU VE KAPIÜSTÜ İKAZ
+
+            LAMBASI                                                                           Tk.
+
+            SESLİ IŞIKLI ACİL ÇIKIŞA YÖNLENDİRME SİSTEMİ IP ADRESLİ
+                                                                                                                        Ad.
+
+            Uyarı/Nokta Dahili Ortam %100 termo plastik poliüretan (TPU) Hammaddeden
+
+            Üretilen Çift Taraflı Beyaz Renkli VHB Akrilik Yapıştırıcı Bantlı Hissedilebilir
+
+            Yüzey                                                                             m
+
+            Kılavuz/İz Dahili Ortam %100 termo plastik poliüretan (TPU) Hammaddeden
+
+            Üretilen Çift Taraflı Beyaz Renkli VHB Akrilik Yapıştırıcı Bantlı Hissedilebilir
+
+            Yüzey                                                                             m
+
+            Uyarı/Nokta Harici Ortam Polyamid(PA 6) Hammaddeden Üretilen
+
+            Tekli Kamalı Hissedilebilir Yüzey                                                 m
+          Kılavuz/İz Harici Ortam Polyamid(PA 6) Hammaddeden Üretilen Üstten Dört                                             267,83
+                                                                                                                            1.413,25
+ÖZEL.125  Dübelli Hissedilebilir Yüzey                                             m                                        1.413,25  22,20
+ÖZEL.129                                                                                                                    5.188,19  Yi-Üfe
+ÖZEL.130  TURKUAZ KARO HALI KAPLAMA                                                                                         1.604,27  Yi-Üfe
+ÖZEL.132                                                                                                               m²   7.260,47
+ÖZEL.133                                                                                                                    8.712,55   23,7
+ÖZEL.138  TURKUAZ_GRİ KARO HALI KAPLAMA                                                                                     7.446,64   24,4
+ÖZEL.139                                                                                                               m²  40.211,81   16,2
+ÖZEL.146                                                                                                                   36.302,32   16,2
+ÖZEL.147  Absolute Granit Malzemesi                                                                                        31.219,99   16,2
+ÖZEL.148                                                                                                               m²  32.430,07   16,2
+ÖZEL.149                                                                                                                   29.525,88   16,2
+ÖZEL.150  ALÜMİNYUM PETEK TAVAN KAPLAMASI (Asma Tavan Malzemesi)( 17 usd)                                                  26.621,70   16,2
+ÖZEL.151                                                                                                               m²   5.212,64   16,2
+ÖZEL.152                                                                                                                   19.361,23   16,2
+ÖZEL.153  SAC KAPAKLI MDF ÜZERİ LAMİNAT KAPLI POSTA KUTUSU YAPILMASI                                                       16.941,07   16,2
+ÖZEL.154                                                                                                                   14.230,51   16,2
+ÖZEL.155  VE YERİNE MONTESİ                                                        m²                                       4.211,06   16,2
+ÖZEL.156                                                                                                                    3.797,79   16,2
+ÖZEL.157  AHŞAP KAPAKLI MDF ÜZERİ LAMİNAT KAPLI POSTA KUTUSU                                                                3.723,33   16,2
+ÖZEL.158                                                                                                                   10.797,60   16,2
+ÖZEL.159  YAPILMASI VE YERİNE MONTESİ                                              M2                                      16.457,06   16,2
+ÖZEL.160                                                                                                                   16.553,87   16,2
+ÖZEL.161  BANKA GİŞE ARKA DOLAP                                                                                             7.405,67   16,2
+ÖZEL.162                                                                                                              AD    4.840,31   16,2
+ÖZEL.163                                                                                                                    5.026,46   16,2
+ÖZEL.164  BANKA ORTA BEKLEME BÜYÜK (270CM)                                                                                 14.148,60   16,2
+ÖZEL.165                                                                                                              AD   14.148,60   16,2
+ÖZEL.166                                                                                                                   12.294,39   16,2
+ÖZEL.167  BANKA ORTA BEKLEME ORTA (210CM)                                                                                  12.294,39   16,2
+ÖZEL.168                                                                                                              AD   17.909,16   16,2
+ÖZEL.169                                                                                                                   15.973,03   16,2
+ÖZEL.170  BANKA ORTA BEKLEME KÜÇÜK (150CM)                                                                                             16,2
+ÖZEL.171                                                                                                              AD               16,2
+                                                                                                                                       16,2
+          BANKA DUVAR BEKLEME BÜYÜK (270CM)
+                                                                                                                      AD
+
+          BANKA DUVAR BEKLEME ORTA (210CM)
+                                                                                                                      AD
+
+          BANKA DUVAR BEKLEME KÜÇÜK (150CM)
+                                                                                                                      AD
+
+          BANKA DUVAR BEKLEME SEHPASI
+                                                                                                                      AD
+
+          BANKA FORM DOLDURMA BANKOSU BÜYÜK
+                                                                                                                      AD
+
+          BANKA FORM DOLDURMA BANKOSU KÜÇÜK
+                                                                                                                      AD
+
+          BANKA DUVAR PANELİ (H=100CM L=240CM)
+                                                                                                                      AD
+
+          BANKA DUVAR PANELİ EK (H=100CM)
+                                                                                                                      MT
+
+          BANKA DUVAR PANELİ İÇ KÖŞE (H=100CM)
+                                                                                                                      AD
+
+          BANKA DUVAR PANELİ DIŞ KÖŞE (H=100CM)
+                                                                                                                      AD
+
+          BANKA DUVAR PANELİ FORM PANOSU (H=100CM L=120CM)
+                                                                                                                      AD
+
+          BANKA DUVAR PANELİ FORM PANOSU_RAFLI (H=190CM)
+                                                                                                                      AD
+
+          BANKA DUVAR PANELİ (H=190CM L=120CM)
+                                                                                                                      AD
+
+          BANKA DUVAR PANELİ EK (H=190CM)
+                                                                                                                      MT
+
+          BANKA DUVAR PANELİ İÇ KÖŞE (H=190CM)
+                                                                                                                      AD
+
+          BANKA DUVAR PANELİ DIŞ KÖŞE (H=190CM)
+                                                                                                                      AD
+
+          BANKA DUVAR PANELİ PTTAVM DİKEY EKRAN (H=190CM L=120CM)
+                                                                                                                      AD
+
+          BANKA DUVAR PANELİ PTTKİTAP DİKEY EKRAN (H=190CM L=120CM)
+                                                                                                                      AD
+
+          BANKA DUVAR GEÇİŞ PANELİ (H100CM'DEN H190CM'E)
+                                                                                                                      AD
+
+          BANKA DUVAR GEÇİŞ PANELİ (H190CM'DEN H100CM'E)
+                                                                                                                      AD
+
+          BANKA DUVAR PANELİ VIDEOWALL (H=190CM L:240CM)
+                                                                                                                      AD
+
+          BANKA DUVAR TEKLİ ATM PANELİ (H=190CM L:120CM)
+                                                                                                                      AD
+ÖZEL.172  BANKA DUVAR 2Lİ ATM PANELİ (H=190CM L:165CM)           AD  18.877,20  16,2
+ÖZEL.173  BANKA DUVAR PANELİ BİTİŞ PARÇASI SAĞ (H=100CM L=30CM)
+ÖZEL.174  BANKA DUVAR PANELİ BİTİŞ PARÇASI SOL (H=100CM L=30CM)  AD  3.946,73   16,2
+ÖZEL.175  BANKA DUVAR PANELİ BİTİŞ PARÇASI SAĞ (H=190CM L=30CM)
+ÖZEL.176  BANKA DUVAR PANELİ BİTİŞ PARÇASI SOL (H=190CM L=30CM)  AD  3.946,73   16,2
+ÖZEL.177  BANKA MÜŞTERİ TEMSİLCİSİ MASASI
+ÖZEL.178  BANKA MÜŞTERİ TEMSİLCİSİ SANDALYESİ                    AD  5.063,70   16,2
+ÖZEL.179  BANKA MÜŞTERİ TEMSİLCİSİ ARKA DOLAP
+ÖZEL.180  BANKA MÜŞTERİ SANDALYESİ                               AD  5.063,70   16,2
+ÖZEL.181  BANKA MÜŞTERİ SEHPASI
+ÖZEL.182  BANKA LOUNGE TEKLİ KOLTUK                              AD  18.693,75  Yi-Üfe
+ÖZEL.183  BANKA LOUNGE İKİLİ KOLTUK
+ÖZEL.184  BANKA LOUNGE SEHPA                                     AD  8.412,22   Yi-Üfe
+ÖZEL.185  BANKA BEKLEME TEKLİ KOLTUK
+ÖZEL.188  POSTA GİŞE ARKA DOLAP                                  AD  7.944,86   Yi-Üfe
+ÖZEL.189  POSTA ZARF KUTUSU
+ÖZEL.190  POSTA ORTA BEKLEME BÜYÜK (270CM)                       AD  6.470,91   Yi-Üfe
+ÖZEL.191  POSTA ORTA BEKLEME ORTA (210CM)
+ÖZEL.192  POSTA ORTA BEKLEME KÜÇÜK (150CM)                       AD  5.176,72   Yi-Üfe
+ÖZEL.193  POSTA DUVAR BEKLEME BÜYÜK (270CM)
+ÖZEL.194  POSTA DUVAR BEKLEME ORTA (210CM)                       AD  14.581,12  Yi-Üfe
+ÖZEL.195  POSTA DUVAR BEKLEME KÜÇÜK (150CM)
+ÖZEL.196  POSTA DUVAR BEKLEME SEHPASI                            AD  20.095,80  Yi-Üfe
+ÖZEL.197  POSTA FORM DOLDURMA BANKOSU BÜYÜK (160CM)
+ÖZEL.198  POSTA FORM DOLDURMA BANKOSU KÜÇÜK (100CM)              AD  6.292,40   16,2
+ÖZEL.199  POSTA DUVAR PANELİ (H=100CM L=240CM)
+ÖZEL.200  POSTA DUVAR PANELİ EK (H=100CM)                        AD  10.164,65  16,2
+ÖZEL.201  POSTA DUVAR PANELİ İÇ KÖŞE (H=100CM)
+ÖZEL.202  POSTA DUVAR PANELİ DIŞ KÖŞE (H=100CM)                  AD  7.446,64   16,2
+ÖZEL.203  POSTA DUVAR PANELİ FORM PANOSU (H=100CM)
+ÖZEL.204  POSTA DUVAR PANELİ FORM PANOSU-RAFLI (H=190CM)         AD  4.244,59   16,2
+ÖZEL.205  POSTA DUVAR PANELİ (H=190CM L=120CM)
+ÖZEL.206  POSTA DUVAR PANELİ EK (H=190CM)                        AD  41.142,62  16,2
+
+                                                                 AD  36.302,32  16,2
+
+                                                                 AD  31.219,99  16,2
+
+                                                                 AD  32.430,07  16,2
+
+                                                                 AD  29.525,88  16,2
+
+                                                                 AD  26.621,70  16,2
+
+                                                                 AD  5.032,94   Yi-Üfe
+
+                                                                 AD  19.361,23  16,2
+
+                                                                 AD  16.941,07  16,2
+
+                                                                 AD  14.230,51  16,2
+
+                                                                 MT  4.211,06   16,2
+
+                                                                 MT  3.797,79   16,2
+
+                                                                 MT  3.723,33   16,2
+
+                                                                 AD  14.036,89  16,2
+
+                                                                 AD  16.457,06  16,2
+
+                                                                 AD  16.553,87  16,2
+
+                                                                 MT  7.405,67   16,2
+ÖZEL.207  POSTA DUVAR PANELİ İÇ KÖŞE (H=190CM)                                                                             4.840,31   16,2
+ÖZEL.208                                                                                                              AD   5.026,46   16,2
+ÖZEL.209                                                                                                                  16.941,07   16,2
+ÖZEL.210  POSTA DUVAR PANELİ DIŞ KÖŞE (H=190CM)                                                                           12.294,39   16,2
+ÖZEL.211                                                                                                              AD  12.294,39   16,2
+ÖZEL.212                                                                                                                  17.909,16   16,2
+ÖZEL.213  POSTA DUVAR PANELİ FİLATELİ DİKEY EKRAN (H:190CM L:120CM)                                                       16.382,60   16,2
+ÖZEL.214                                                                                                              AD  17.871,91   16,2
+ÖZEL.215                                                                                                                  22.265,44   16,2
+ÖZEL.216  POSTA DUVAR GEÇİŞ PANELİ (H100CM'DEN H190CM'E AÇILI)                                                            18.616,56   16,2
+ÖZEL.217                                                                                                              AD   3.946,73   16,2
+ÖZEL.218                                                                                                                   3.946,73   16,2
+ÖZEL.219  POSTA DUVAR GEÇİŞ PANELİ (H190CM'DEN H100CM'E AÇILI)                                                             5.063,70   16,2
+ÖZEL.220                                                                                                              AD   5.063,70   16,2
+ÖZEL.221                                                                                                                  14.714,53   16,2
+ÖZEL.223  POSTA DUVAR PANELİ VIDEOWALL (H=190CM L=240CM)                                                                  21.965,18  Yi-Üfe
+ÖZEL.224                                                                                                              AD   8.879,54  Yi-Üfe
+ÖZEL.225                                                                                                                   8.879,54  Yi-Üfe
+ÖZEL.226  POSTA DUVAR PANELİ KOLİ RAFI (H=190CM L=120CM)                                                                  18.693,75  Yi-Üfe
+ÖZEL.227                                                                                                              AD  25.164,67  Yi-Üfe
+ÖZEL.228                                                                                                                  12.431,34  Yi-Üfe
+ÖZEL.229  POSTA DUVAR PANELİ POŞET RAFI (H=190CM L=70CM)                                                                  19.772,25  Yi-Üfe
+ÖZEL.230                                                                                                              AD  21.965,18  Yi-Üfe
+ÖZEL.231                                                                                                                  12.941,82  Yi-Üfe
+ÖZEL.232  POSTA DUVAR PANELİ PAKETLEME KÜÇÜK (H=190CM L=150CM)                                                             5.751,92  Yi-Üfe
+ÖZEL.233                                                                                                              AD  17.909,16   16,2
+ÖZEL.241                                                                                                                  10.455,07   16,2
+ÖZEL.242  POSTA DUVAR PANELİ PAKETLEME BÜYÜK (H=190CM L=200CM)                                                             6.776,45   16,2
+ÖZEL.244                                                                                                              AD  11.425,59   24,4
+ÖZEL.245                                                                                                                  11.425,59   24,4
+ÖZEL.246  POSTA DUVAR PANELİ BİTİŞ PARÇASI SAĞ (H=100CM L=30CM)                                                           13.395,50   24,4
+ÖZEL.247                                                                                                              AD  13.395,50   24,4
+ÖZEL.248                                                                                                                  13.395,50   24,4
+          POSTA DUVAR PANELİ BİTİŞ PARÇASI SOL (H=100CM L=30CM)
+                                                                                                                      AD
+
+          POSTA DUVAR PANELİ BİTİŞ PARÇASI SAĞ (H=190CM L=30CM)
+                                                                                                                      AD
+
+          POSTA DUVAR PANELİ BİTİŞ PARÇASI SOL (H=190CM L=30CM)
+                                                                                                                      AD
+
+          POSTA DUVAR SELF SERVİS EKRANLI PANEL (H=190CM L=120CM)
+                                                                                                                      AD
+
+          SIRAMATİK GÜVENLİK BAKOSU
+                                                                                                                      AD
+
+          ÇALIŞMA SANDALYESİ GİŞE
+                                                                                                                      AD
+
+          ÇALIŞMA SANDALYESİ ARKA OFİS
+                                                                                                                      AD
+
+          ÇALIŞMA MASASI ARKA OFİS (180CM)
+                                                                                                                      AD
+
+          MÜDÜR ÇALIŞMA MASASI
+                                                                                                                      AD
+
+          MÜDÜR ÇALIŞMA SANDALYESİ
+                                                                                                                      AD
+
+          MÜDÜR ARKA DOLAP (170CM)
+                                                                                                                      AD
+
+          MÜDÜR İKİLİ KOLTUK
+                                                                                                                      AD
+
+          MÜDÜR TEKLİ KOLTUK
+                                                                                                                      AD
+
+          MÜDÜR SEHPA
+                                                                                                                      AD
+
+          Ahşap kapı yapılması (kanat ve kasa laminat kaplama) Madeni Aksam Hariç
+                                                                                                                      AD
+
+          ALÜMİNYUM KASA-LAMİNAT KANAT KAPI AKSESUARLARI
+                                                                                                                      AD
+
+          ERİŞİLEBİLİR WC KAPI AKSESUARLARI
+                                                                                                                      AD
+
+          BANKA CEPHE PİKTOGRAM
+                                                                                                                      AD
+
+          POSTA CEPHE PİKTOGRAM
+                                                                                                                      AD
+
+          TAVANDAN ASKILI BANKA YÖNLENDİRME PANOSU
+                                                                                                                      AD
+
+          TAVANDAN ASKILI POSTA YÖNLENDİRME PANOSU
+                                                                                                                      AD
+
+          TAVANDAN ASKILI BANKA FORM DOLDURMA YÖNLENDİRME PANOSU
+                                                                                                                      AD
+ÖZEL.249   TAVANDAN ASKILI POSTA FORM DOLDURMA YÖNLENDİRME PANOSU                                                           13.395,50  24,4
+ÖZEL.250                                                                                                               AD      961,43  22,20
+ÖZEL.251                                                                                                                       961,43  22,20
+ÖZEL.252   BANKA GİŞE TACI ÖNÜ NUMARA                                                                                                  24,4
+ÖZEL.254                                                                                                               AD   18.458,17  24,4
+ÖZEL.255                                                                                                                    12.238,57  24,4
+ÖZEL.256   POSTA GİŞE TACI ÖNÜ NUMARA                                                                                                  24,4
+ÖZEL.257                                                                                                               AD    6.821,51  24,4
+ÖZEL.261                                                                                                                    15.649,32  22,20
+ÖZEL.264   CEPHE TABELASI TAÇ KISMI - LOGOLU PANELİ - L:6 MT                                                                15.649,32  23,7
+ÖZEL.265                                                                                                               AD              16,2
+ÖZEL.266                                                                                                                     2.142,61  16,2
+ÖZEL.267   CEPHE TABELASI DÜZ PANEL                                                                                          1.220,77  16,2
+ÖZEL.268                                                                                                               MT   29.525,88  16,2
+ÖZEL.132A                                                                                                                   14.520,92  23,7
+ÖZEL.132B  CEPHE TABELASI - ALT & ÜST SAÇAK KAPLAMALARI                                                                      8.191,29  23,7
+ÖZEL.294                                                                                                               M2   11.616,74  27,4
+ÖZEL.295                                                                                                                     3.789,43  27,4
+ÖZEL.296   3 MM ALÜMİNYUM CEPHE PANELİ_SARI                                                                                  3.789,43  27,4
+ÖZEL.297                                                                                                               M2    1.839,17  27,4
+ÖZEL.298                                                                                                                     1.746,92  27,4
+           3 MM ALÜMİNYUM CEPHE PANELİ_TURKUAZ                                                                               1.370,44
+                                                                                                                       M2
+                                                                                                                               950,64
+           FOLYO UYGULAMA İŞLERİ                                                                                             3.341,39
+                                                                                                                       M2
+
+           0,60*0,60 Sarı veya Turkuaz granit seramik döş.Kaplaması
+                                                                                                                        m²
+
+           POSTA-BANKA GİŞE BANKOSU VE KESONU
+                                                                                                                        Ad
+
+           ENGELLİ BANKOSU
+                                                                                                                        Ad
+
+           BANKO KESON EK MODÜL
+                                                                                                                        Ad
+
+           BANKO İLAVE MODÜL
+                                                                                                                        Ad
+
+           ABSOLUTE BLACK GRANİT LEVHA İLE BASAMAK KAYIPLARIYLA
+                                                                                                                       M2
+
+           ABSOLUTE BLACK GRANİT LEVHA İLE RIHT KAYIPLARIYLA
+                                                                                                                       M2
+
+           4x5 W ÖZEL PETEK ARMATÜR
+                                                                                                                       AD
+
+           SIVA ALTI ALÜMİNYUM REFLEKTÖRLÜ COB LED DOWLİGHT ARMATÜR
+                                                                                                                       AD
+
+           SIVA ALTI OPAL PRİZMATİK DİFÜZÖRLÜ LED DOWLİGHT
+                                                                                                                       AD
+
+           SIVA ALTI COB LED SPOT
+                                                                                                                       AD
+
+           SARKIT LED'Lİ LİNEER ARMATÜR
+                                                                                                                       AD
+
